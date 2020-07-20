@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/ankitgupta0910/dockerWorkflow/tree/master.svg?style=svg)](https://circleci.com/gh/ankitgupta0910/dockerWorkflow/tree/master)
 
 ## Project Overview
 
